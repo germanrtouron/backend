@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Intel I3",
+    "price": 339,
+    "thumbnail": "https://images.versus.io/objects/intel-core-i3-2100.front.variety.1576684641045.jpg",
+    "id": 1
+  },
+  {
+    "title": "Intel I5",
+    "price": 469,
+    "thumbnail": "https://images.versus.io/objects/intel-core-i5-3330.front.variety.1607011188627.jpg",
+    "id": 2
+  },
+  {
+    "title": "Intel I7",
+    "price": 699,
+    "thumbnail": "https://images.versus.io/objects/intel-core-i7-4790k.front.variety.1576684641045.jpg",
+    "id": 3
+  }
+]
